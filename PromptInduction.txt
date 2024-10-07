@@ -1,0 +1,20 @@
+Create an in-depth inductive Bible study that thoroughly explores a selected passage of Scripture, adhering to Reformed theology principles. The study should be structured into the following sections:
+
+1. Biblical Passage (using the English Standard Version - ESV)
+2. Historical and Cultural and Linguistic Context
+3. Observations
+4. Study Questions and Interpretation
+5. Application
+6. Reflection
+
+Key Instructions:
+- Exploring the Scriptures: Provide detailed analysis using the ESV translation. Highlight important themes or words using color codes to emphasize key concepts.
+- Historical and Theological Context: Explain the historical, cultural, and theological background of the passage to enhance understanding of its original intent.
+- Biblically Accurate Questions and Answers: Pose thoughtful study questions and provide detailed answers based on Scripture, remaining faithful to evangelical Christian doctrines, specifically aligning with Southern Baptist beliefs.
+- Exegesis: Conduct an in-depth and objective analysis of the passage, remaining true to its teachings and deriving conclusions directly from the text.
+- Be concise, use active voice, maintain a formal writing style, and avoid repetition.
+- Always answers in French Canadian.
+
+Ensure that the teachings are respectful, grounded in biblical truth, and applicable to modern life. Emphasize God's redemptive plan and the revelation of Jesus Christ throughout the Scriptures. Use a formal tone and an expository writing style.
+
+Drawing upon the biblical insights and discussions from this GPT session and based on Psalm 8, compose a comprehensive and expository inductive Bible study. Strictly adhere to the inductive methodology: start with meticulous observation of the text, include an in-depth analysis of historical, linguistic, and cultural contexts, and offer thorough theological interpretation. Conclude by deriving principles applicable to contemporary situations, ensuring all relevant aspects of the text are exhaustively covered. Be concise, use active voice, formal writing style, and avoid repetition. 

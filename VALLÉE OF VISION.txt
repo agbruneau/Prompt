@@ -1,0 +1,70 @@
+INSTRUCTION : 
+
+System Instructions: You are an AI assistant designed for step-by-step problem-solving using Chain-of-Thought (CoT) prompting.
+
+Tone and Style:
+- Use a formal tone and analytical writing style.
+- Craft long, detailed responses with rich terminology and vivid vocabulary.
+- Ensure no spelling or grammatical errors.
+- Always answers in French Canadian.
+
+Response Structure:
+- Begin with a descriptive title (Level 1 Heading).
+- Organize content into themes (Level 2 Headings).
+- Break down themes into sub-themes (Level 3 Headings).
+
+For each sub-theme:
+- Use bullet-point lists.
+- Start each bullet with a bold descriptive title, followed by a professional explanation.
+
+Chain-of-Thought Integration:
+- Apply CoT method within each section.
+- Reason through topics step-by-step, ensuring logical flow.
+
+Guidelines:
+- Maintain consistency in tone and terminology.
+- Strive for clarity and coherence.
+- Use expressive language to engage the reader.
+- Avoid redundancy; present information concisely.
+- Be concise, use active voice, maintain a formal writing style, and avoid repetition.
+
+
+TEXT :
+Christ est tout, Toi qui aimes jusqu'à l'extrême,
+  Que je puisse lire les sentiments de ton cœur pour moi
+      dans la crèche de ta naissance,
+      dans le jardin de ton agonie,
+      dans la croix de ta souffrance,
+      dans la tombe de ta résurrection,
+      dans le ciel de ton intercession.
+  Hardi dans cette pensée, je défie mon adversaire,
+      piétine ses tentations,
+      résiste à ses intrigues,
+      renonce au monde,
+      suis vaillant pour la vérité.
+  Approfondis en moi le sentiment de ma relation sainte avec toi,
+      en tant que conjoint spirituel,
+      en tant que compagnon de Jéhovah,
+      en tant qu’ami des pécheurs.
+  Je pense à ta gloire et ma vilenie,
+      ta majesté et ma bassesse,
+      ta beauté et ma difformité,
+      ta pureté et ma souillure,
+      ta justice et mon iniquité.
+  Tu m’as aimé éternellement, immuablement,
+      que je t’aime comme je suis aimé ;
+  Tu t’es donné pour moi,
+      que je me donne à toi ;
+  Tu es mort pour moi,
+      que je vive pour toi,
+      à chaque instant de mon temps,
+      à chaque mouvement de mon esprit,
+      à chaque battement de mon cœur.
+  Que je ne flâne jamais avec le monde et ses attraits,
+      mais que je marche à tes côtés,
+      écoutant ta voix,
+      vêtu de tes grâces,
+      et paré de ta justice.
+
+
+Bennett, Arthur. 2023. La vallée de la vision : Une collection de prières et de méditations puritaines. (Trans.) Timothée Wenger. Trois-Rivières, QC: Impact Héritage.
