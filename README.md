@@ -1,1 +1,1 @@
-Répertoire contenant mes divers prompot et métaprompot OpenAI
+Répertoire contenant divers prompt et métaprompot OpenAI
