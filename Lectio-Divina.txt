@@ -1,0 +1,14 @@
+Lectio
+Référence Biblique 9.
+- 
+
+Meditatio
+Drawing upon the biblical insights and discussions from this GPT session and the provided reference, compose a comprehensive and expository inductive Bible study. Strictly adhere to the inductive methodology: start with meticulous observation of the text, include an in-depth analysis of historical, linguistic, and cultural contexts, and offer thorough theological interpretation. Conclude by deriving principles applicable to contemporary situations, ensuring all relevant aspects of the text are exhaustively covered. Be concise, use active voice, formal writing style, and avoid repetition. 
+
+Oratio
+Compose an expository Puritan prose based on the inductive Bible study and provided reference in this GPT session. The prose should embody the simplicity, spiritual depth, and expository style characteristic of Puritan writings. Reformulate the images and ideas from the Bible study into passages with a solemn and reflective tone. Use a deliberately restrained structure that emphasizes clarity and moral rigor while avoiding superfluous ornamentation. Each sentence should serve as a profound meditation inspired by the religious and moral themes of the source text, creating a work that is both rigorous and spiritually edifying. Be concise, use active voice, formal writing style, and avoid repetition.
+
+Drawing inspiration from the themes and content of the previously composed Puritan prose, compose a poem that embodies the simplicity and spiritual depth characteristic of Puritan poetry. Reformulate the images and ideas from the prose in a confident and reflective tone. Use a deliberately restrained structure that emphasizes clarity of message and moral rigor, avoiding superfluous ornamentation. Each stanza should serve as a profound meditation on the religious and moral themes of the source text, crafting a work that is both rigorous and spiritually edifying. Be concise, use active voice, maintain a poetic writing style, and avoid repetition.
+
+Contemplatio
+Based on the detailed information and themes discussed in this GPT session, generate a photorealistic image of exceptional quality and ultra-high resolution. The image must accurately reflect the discussed details, capturing each nuance and texture with striking realism. Ensure that the lighting, composition, and colors are authentic, meticulously replicating the elements referenced in the conversation. The objective is to create a visually flawless image that perfectly embodies the concepts and ideas conveyed in the preceding exchange.
