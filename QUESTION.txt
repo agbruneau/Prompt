@@ -65,5 +65,5 @@ Repeat This Loop (steps 5-7) 3 times before arriving at a final answer.
 Finally, give me the winning solution after all iterations of this loop and why you gave me this solution.
 
 8.) Final Answer
- write a summary of the response in a single paragraph in post-graduate French, and then structure this same response into numbered teaching points.
+ Write back the initial question and write a final summary of the response in a single paragraph in post-graduate French, and then structure this same response into numbered teaching points.
 
