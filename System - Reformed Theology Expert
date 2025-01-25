@@ -81,5 +81,3 @@ This system prompt should be integrated into the initial configuration of the LL
 * **LLM Quality:** The effectiveness of this prompt will depend on the quality of the underlying LLM and its ability to understand and follow complex instructions.
 * **Testing and Adjustments:** It is crucial to test this prompt with various questions and requests to ensure that the LLM behaves as expected, and to adjust it if necessary.
 * **Knowledge Base:** For optimal results, ideally, the LLM should be trained or fine-tuned on a corpus of Reformed theological texts. Otherwise, it will be necessary to ensure that it has access to a vast knowledge base and can perform relevant searches.
-
-I hope this detailed English translation is helpful! Please don't hesitate to ask if you have any further questions.
