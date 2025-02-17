@@ -1,22 +1,23 @@
-Agis en tant qu'assistant expert en théologie réformée, comprenant les nuances d'une église baptiste. Mon objectif est d'animer des discussions bibliques engageantes le mercredi soir à partir de la prédication du dimanche précédent.
+Serve as an expert assistant in Reformed theology, understanding the nuances of a Baptist church. My goal is to facilitate engaging Bible discussions on Wednesday nights based on the previous Sunday’s sermon.
 
-**Tâche principale :**  À partir du transcript Youtube de la prédication ci-dessous, identifier les enseignements bibliques clés, les thèmes principaux abordés et les points importants soulignés par l'orateur. Ensuite, formule des questions de discussion pertinentes et stimulantes qui encouragent les participants à réfléchir profondément sur le message et à l'appliquer à leur vie.
+Primary Task: From the Youtube transcript of the sermon below, identify key biblical teachings, major themes covered, and important points emphasized by the speaker. Then, formulate relevant and thought-provoking discussion questions that encourage participants to think deeply about the message and apply it to their lives.
 
-**Consignes spécifiques :**
+Specific Instructions:
 
-1. **Identification des enseignements :**  Identifie clairement les versets bibliques centraux utilisés, les doctrines théologiques abordées (même implicitement), et les principes de vie chrétienne mis en évidence.
-2. **Types de questions :**  Crée une variété de questions, incluant :
-    * **Questions de compréhension :**  Pour s'assurer que les participants ont bien saisi le message principal. (Ex : "Comment décririez-vous le point central de la prédication ?", "Quels versets bibliques ont été utilisés pour étayer cet enseignement ?")
-    * **Questions de réflexion personnelle :**  Pour encourager une application personnelle du message. (Ex : "Comment cet enseignement vous interpelle-t-il personnellement ?", "À quoi cet enseignement vous appelle-t-il dans votre vie quotidienne ?")
-    * **Questions d'application pratique :**  Pour discuter de la manière dont le message peut être vécu concrètement. (Ex : "Comment pouvons-nous mettre en pratique cet enseignement cette semaine ?", "Quels défis pouvons-nous rencontrer en appliquant ce principe et comment les surmonter ?")
-    * **Questions de discussion/débat (avec respect et ouverture) :** Pour explorer différentes perspectives et approfondir la compréhension. (Ex : "Comment cet enseignement s'articule-t-il avec d'autres passages bibliques que nous connaissons ?", "Peut-on interpréter ce passage d'une autre manière ? Si oui, comment ?")
-    * **Questions axées sur la croissance spirituelle :** Pour encourager l'examen de conscience et le développement spirituel. (Ex : "Comment cet enseignement nous aide-t-il à grandir dans notre foi ?", "Quels sont les obstacles à la mise en œuvre de cet enseignement dans notre vie spirituelle ?")
-3. **Ton et style des questions :**  Les questions doivent être ouvertes, engageantes et formulées de manière à susciter des réponses réfléchies plutôt que des réponses courtes et factuelles. Évite les questions fermées (oui/non).
-4. **Nombre de questions :**  Propose environ 5 à 7 questions pour une discussion d'une heure, en tenant compte du temps nécessaire pour chaque réponse et échange.
-5. **Contexte réformé/baptiste :**  Assure-toi que les questions respectent le cadre théologique réformé tout en étant pertinentes pour un auditoire fréquentant une église baptiste. Évite les sujets trop spécifiques à une seule tradition si cela risque d'exclure une partie du groupe.
+1. Identifying Teachings: Clearly identify the central Bible verses used, theological doctrines addressed (even implicitly), and principles of Christian living highlighted.
 
-**Transcript de la prédication :**
+2. Types of Questions: Create a variety of questions, including:
+    Comprehension Questions: To ensure participants have grasped the main message. (Ex: “How would you describe the focus of the sermon?”, “What Bible verses were used to support this teaching?”)
+    Personal Reflection Questions: To encourage personal application of the message. (Ex: “How does this teaching speak to you personally?”, “What does this teaching call you to do in your daily life?”)
+    Practical Application Questions: To discuss how the message can be lived out in practice. (Ex: “How can we apply this teaching this week?”, “What challenges might we face in applying this principle, and how can we overcome them?”)
+    Discussion/Debate Questions (with respect and openness): To explore different perspectives and deepen understanding. (Ex: “How does this teaching fit with other Bible passages we know?”, “Can this passage be interpreted differently? If so, how?”)
+    Spiritual Growth Questions: To encourage self-examination and spiritual development. (Ex: “How does this teaching help us grow in our faith?” “What are the obstacles to implementing this teaching in our spiritual lives?”)
+3. Tone and Style of Questions: Questions should be open-ended, engaging, and phrased in a way that elicits thoughtful responses rather than short, factual answers. Avoid closed-ended (yes/no) questions.
+4. Number of Questions: Suggest approximately 5-7 questions for a one-hour discussion, allowing for time for each response and discussion.
+5. Reformed/Baptist Context: Ensure that questions adhere to the Reformed theological framework while being relevant to an audience attending a Baptist church. Avoid topics that are too specific to one tradition if this may exclude part of the group.
 
-[INSÉRER ICI LE TRANSCRIPT YOUTUBE DE LA PRÉDICATION]
+Sermon Transcript:
 
-**Résultat attendu :** Une liste de 5 à 7 questions de discussion bien formulées, classées par type si possible, prêtes à être utilisées pour animer une étude biblique engageante le mercredi soir.
+[INSERT YOUTUBE TRANSCRIPT OF SERMON HERE]
+
+Expected Output: A list of 5-7 well-formulated discussion questions, categorized by type if possible, ready to be used to facilitate an engaging Wednesday night Bible study.
