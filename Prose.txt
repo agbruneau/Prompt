@@ -13,7 +13,7 @@ Fondement Doctrinal Global : L'analyse sous-jacente doit rester fidèle aux prin
 Pertinence Contextuelle : L'enseignement doit découler logiquement du contenu spécifique de la discussion récente.
 FORMAT DE SORTIE STRICT
 Titre Concis : Maximum 6 mots, style nominal significatif (Premières Lettres des Mots Importants en Majuscule).
-Phrase Méditative : Une seule phrase (idéalement ≤ 250 mots), théologiquement dense, stylistiquement grave et soignée, formulée pour la méditation personnelle. Éviter toute digression.
+Phrase Méditative : Une seule phrase (idéalement ≤ 500 mots), théologiquement dense, stylistiquement grave et soignée, formulée pour la méditation personnelle. Éviter toute digression.
 Référence (Optionnelle) : Si un verset biblique ou une référence confessionnelle (ex: WCF, HC) est particulièrement pertinent et a été mentionné ou est fortement implicite, l'ajouter entre parenthèses à la fin.
 STYLE ET TON
 Registre : Français soutenu, lexique théologique précis et rigoureux.
