@@ -1,5 +1,4 @@
-Generate a structure literature review on the topic :"Engineering of complex systems and distributed architectures"
-
+Generate a structure literature review on the topic :"Systems Interoperability in 2025 and the future"
 Include:
 - Key research themes and how they've evolved over time
 - important studies, including authors, year, and core findings
@@ -9,3 +8,5 @@ Include:
 - Use peer-reviewed sources. Present the output in a format suitable for inclusion in the introduction of a thesis
 - add in-text citations in IEEE format, vent if they are placeholders
 - Make the review as long as it needs to be for cover the literature effectively
+
+
