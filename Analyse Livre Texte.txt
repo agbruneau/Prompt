@@ -1,5 +1,4 @@
-Analyse approfondie et structurée du contenu du fichier texte ci-joint, en utilisant la fonctionnalité de recherche avancée ('Deep Search').
-L'objectif est de produire un document d'étude détaillé en français, incluant les éléments suivants :
+L'objectif est de produire un essai exhaustif détaillé étoffé en français, incluant les éléments suivants :
 Identification et Synthèse des Thématiques :
 Déterminer les thèmes centraux et secondaires abordés dans le texte.
 Décrire brièvement chaque thématique.
