@@ -1,4 +1,4 @@
-L'objectif est de produire un essai exhaustif détaillé étoffé en français, incluant les éléments suivants :
+L'objectif est de produire un exhaustif mémoire de maîtrise détaillé et étoffé en français, incluant les éléments suivants :
 Identification et Synthèse des Thématiques :
 Déterminer les thèmes centraux et secondaires abordés dans le texte.
 Décrire brièvement chaque thématique.
@@ -24,4 +24,4 @@ Synthèse des découvertes les plus importantes.
 Récapitulatif des leçons à retenir.
 Ouverture sur des pistes de réflexion supplémentaires ou des applications futures.
 Style et Ton :
-Le document doit adopter un style académique, informatif, clair et précis. Utilise un langage soutenu et une présentation structurée.
+Le document doit adopter un style académique, informatif, clair et précis. Utilise un langage soutenu et une présentation structurée.
