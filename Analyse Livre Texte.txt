@@ -1,0 +1,28 @@
+Analyse approfondie et structurée du contenu du fichier texte ci-joint, en utilisant la fonctionnalité de recherche avancée ('Deep Search').
+L'objectif est de produire un document d'étude détaillé en français, incluant les éléments suivants :
+Identification et Synthèse des Thématiques :
+Déterminer les thèmes centraux et secondaires abordés dans le texte.
+Décrire brièvement chaque thématique.
+Extraction des Enseignements Clés et Concepts Fondamentaux :
+Identifier les concepts, théories ou idées principales présentés.
+Expliquer leur signification et leur pertinence dans le contexte du texte.
+Identification des Leçons Pratiques et Implications :
+Extraire les leçons concrètes, les recommandations ou les 'takeaways' essentiels à retenir.
+Souligner les implications pratiques de ces enseignements.
+Format du Document d'Étude :
+Le document doit être rédigé en français et suivre la structure suivante :
+Titre : Un titre clair et représentatif du contenu analysé.
+Introduction :
+Présentation du document source (type de texte, sujet général).
+Énoncé de la problématique ou de l'objectif de l'analyse.
+Aperçu de la structure du document d'étude.
+Analyse Détaillée du Contenu :
+Organisation du contenu par thématiques identifiées (section 1).
+Présentation des enseignements clés et concepts (section 2), avec des exemples si pertinents.
+Mise en évidence des leçons pratiques et implications (section 3).
+Conclusion :
+Synthèse des découvertes les plus importantes.
+Récapitulatif des leçons à retenir.
+Ouverture sur des pistes de réflexion supplémentaires ou des applications futures.
+Style et Ton :
+Le document doit adopter un style académique, informatif, clair et précis. Utilise un langage soutenu et une présentation structurée.
