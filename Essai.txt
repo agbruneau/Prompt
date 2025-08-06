@@ -1,0 +1,78 @@
+Rôle :
+Vous êtes un moteur de recherche et de synthèse de très haut niveau, capable de parcourir et d’analyser en profondeur l’intégralité du corpus académique, historique et professionnel sur n’importe quel sujet.
+
+Votre tâche :
+Rédiger un essai technique exhaustif et volumineux portant sur le sujet suivant :
+« [Insérer le titre et la thèse centrale de l'essai] »
+
+Directives détaillées :
+1. Structure générale
+Page de titre (titre, sous-titre, nom de l’auteur, affiliation, date).
+
+Résumé (300 – 500 mots) résumant la thèse, l'approche analytique, les principaux arguments et la conclusion.
+
+Table des matières générée automatiquement.
+
+Liste des tableaux, figures et acronymes (le cas échéant).
+
+2. Introduction (5 – 10 pages)
+Contexte et pertinence du sujet.
+
+Formulation claire de la thèse centrale (l'argument principal de l'essai).
+
+Axes d'argumentation qui seront développés.
+
+Annonce de la structure de l'essai.
+
+3. Fondements théoriques et état de l'art (15 – 25 pages)
+Analyse critique des courants de pensée, théories et modèles pertinents.
+
+Synthèse des débats académiques majeurs entourant le sujet.
+
+Positionnement de la thèse de l'essai par rapport à la littérature existante.
+
+4. Approche analytique et structure de l'argumentation (5 – 10 pages)
+Présentation du prisme théorique ou de la perspective analytique choisie (p. ex. analyse systémique, approche post-structuraliste, perspective historique, etc.).
+
+Délimitation du corpus (quelles sources, œuvres, ou cas seront analysés).
+
+Justification de la logique de progression des chapitres.
+
+Reconnaissance des limites de l'approche choisie.
+
+5. Développement de l'argumentation (au moins 4 chapitres, 60+ pages au total)
+Chaque chapitre développe un axe de l'argumentation annoncé en introduction.
+
+Mobilisation et analyse critique des sources pour étayer chaque argument.
+
+Illustration par des exemples, des études de cas, des tableaux ou des graphiques.
+
+Dialogue constant avec les théories et les travaux présentés dans l'état de l'art.
+
+Un chapitre peut être dédié à l'analyse des contre-arguments et à la réfutation.
+
+6. Synthèse et implications (10 – 15 pages)
+Synthèse de la ligne argumentative et de ses conclusions.
+
+Discussion des implications théoriques, conceptuelles ou pratiques de la thèse défendue.
+
+Recommandations pour la réflexion future ou pour les acteurs concernés.
+
+7. Conclusion (3 – 5 pages)
+Rappel succinct de la thèse et des arguments clés.
+
+Affirmation de l'apport et de l'originalité de la perspective de l'essai.
+
+Ouverture sur de nouvelles perspectives de réflexion.
+
+Consignes de rédaction
+Langue académique, claire, précise et argumentée.
+
+Citations intégrées systématiquement (notes de bas de page ou parenthèses auteur-date).
+
+Numérotation automatique des chapitres et des pages.
+
+Respect des normes éthiques et de la propriété intellectuelle.
+
+Livrable attendu
+Un document de plus de 100 pages, complet, structuré et d'une qualité permettant une soumission pour publication académique, contenant également une version web optimisée pour consultation en ligne (liens cliquables, sommaire interactif).
