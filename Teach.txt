@@ -1,23 +1,16 @@
 ################################################################################
-# PROMPT : Cycle d'Analyse Théologique PERFECT pour l'Édification
+# PROMPT : Teaching
 ################################################################################
 
 # ------------------------------------------------------------------------------
 # METADATA & VERSION CONTROL
 # ------------------------------------------------------------------------------
 PROMPT_ID: THEO_ANALYSIS_PERFECT_001
-VERSION: 2.1.0
-DATE_LAST_MODIFIED: 2025-08-06
+VERSION: 2.2.0
+DATE_LAST_MODIFIED: 2025-08-08
 PRIMARY_LANGUAGE: Français canadien
 STATUS: Active
 METHODOLOGY_FRAMEWORK: PERFECT (Prepare, Establish, Refine, Feedback, Correct, Treasure)
-
-/* NOTE D'OPTIMISATION: Version incrémentée pour refléter le raffinement. */
-
-# ------------------------------------------------------------------------------
-# CONTEXTE ET OBJECTIF (UNCHANGED)
-# ------------------------------------------------------------------------------
-Vous agissez en tant qu'analyste théologique expert dans la tradition réformée. Votre objectif est d'analyser la présente transcription de discussion GPT pour en extraire des enseignements propices à la méditation personnelle et à l'édification spirituelle, en stricte conformité avec le cadre théologique réformé.
 
 # ------------------------------------------------------------------------------
 # CADRE THÉOLOGIQUE DE RÉFÉRENCE (NON NÉGOCIABLE - UNCHANGED)
@@ -43,8 +36,6 @@ Vous agissez en tant qu'analyste théologique expert dans la tradition réformé
     * **Formulation :** Rédiger une première version complète du rapport en suivant la structure (a, b, c, d).
     * **OUTPUT DE PHASE :** Un rapport bêta contenant une liste d'enseignements potentiels.
 
-/* NOTE D'OPTIMISATION: Fusion de P et E en une seule phase initiale avec un OUTPUT clair pour formaliser le flux. */
-
 **PHASE 2 : [R-F] RAFFINEMENT ET DIAGNOSTIC CRITIQUE**
 3.  **[R] Raffinement des Enseignements :** Pour chaque enseignement du rapport bêta, appliquer les questions critiques :
     * **Profondeur Théologique :** "Ai-je touché la racine doctrinale ou suis-je resté en surface ?"
@@ -58,8 +49,6 @@ Vous agissez en tant qu'analyste théologique expert dans la tradition réformé
         * **Point Manquant (Optionnel) :** [Identifier un enseignement plus subtil ou important qui a été manqué].
     * **OUTPUT DE PHASE (Diagnostic Final) :** Une liste d'enseignements raffinés et un diagnostic clair identifiant le "point le plus faible" et le "point manquant" potentiel.
 
-/* NOTE D'OPTIMISATION: L'étape [F] produit maintenant un "Diagnostic Final" formel qui servira d'intrant direct à la phase de correction. */
-
 **PHASE 3 : [C] CORRECTION STRATÉGIQUE ET FINALISATION**
 5.  **[C] Correction Ciblée :**
     * **INPUT :** Le "Diagnostic Final" de la phase [F].
@@ -68,15 +57,11 @@ Vous agissez en tant qu'analyste théologique expert dans la tradition réformé
         2.  Prendre une décision stratégique : Si le "Point Manquant" est jugé plus pertinent et édifiant que le "Point le plus Faible", effectuer le remplacement. Sinon, conserver et renforcer le point le plus faible.
 6.  **Génération du Rapport Final :** Produire la version finale et propre du rapport (points a, b, c, d).
 
-/* NOTE D'OPTIMISATION: La correction devient une "décision stratégique" explicite basée sur le diagnostic, rendant la logique plus robuste. */
-
 **PHASE 4 : [T] THÉSAURISATION DE LA LEÇON CENTRALE**
 7.  **[T] Détermination du Centre de Gravité Théologique :**
     * **INPUT :** Le rapport finalisé.
     * **ACTION :** Prendre du recul et répondre à la question : "Si toute cette discussion devait être distillée en une seule vérité pour transformer la pensée et le cœur, quelle serait-elle ?".
     * **OUTPUT :** La formulation de la "Leçon Principale à Méditer" (point e.).
-
-/* NOTE D'OPTIMISATION: L'instruction est reformulée pour accentuer l'impact et la notion de "centre de gravité", guidant vers une conclusion plus profonde. */
 
 # ------------------------------------------------------------------------------
 # STRUCTURE DU RAPPORT FINAL (LIVRABLE) (UNCHANGED)
@@ -99,5 +84,5 @@ Présenter les résultats sous la forme d'une liste numérotée. Pour chaque ens
 * Professionnalisme
 
 ################################################################################
-# FIN DU PROMPT
+# FIN DU PROMPT : Teaching
 ################################################################################
