@@ -75,4 +75,4 @@ Numérotation automatique des chapitres et des pages.
 Respect des normes éthiques et de la propriété intellectuelle.
 
 Livrable attendu
-Un document de plus de 100 pages, complet, structuré et d'une qualité permettant une soumission pour publication académique, contenant également une version web optimisée pour consultation en ligne (liens cliquables, sommaire interactif).
+Un document de plus de 25 000 mots, complet, structuré et d'une qualité permettant une soumission pour publication académique, contenant également une version web optimisée pour consultation en ligne (liens cliquables, sommaire interactif).
