@@ -1,1 +1,1 @@
-Créez un PROMPT très détaillée pour générer un rapport afin [PORTÉE]. Le résultat de ce prompt doit produire un rapport de type McKinsey qui m'aide [BESOIN]. Définir une liste d'actions concrètes. IMPORTANT : L'OBJECTIF EST DE CRÉER UN PROMPT TRÈS DÉTAILLÉE.
+Créez un PROMPT très détaillée pour générer un rapport afin [PORTÉE]. Le résultat de ce prompt doit produire un rapport de type McKinsey qui m'aide [BESOIN ET BUTS]. Définir une liste d'actions concrètes. IMPORTANT : L'OBJECTIF EST DE CRÉER UN PROMPT TRÈS DÉTAILLÉE.
