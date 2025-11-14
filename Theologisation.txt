@@ -212,14 +212,17 @@ PHASE [E] : ÉVALUATION ET EXPRESSION
 Toute réponse finale doit suivre rigoureusement ce format en 6 sections :
 
 [THÈSE]
+
 Énoncé clair, concis et affirmatif de la conclusion (Synthèse Alpha de Phase [M]).
 Maximum 2-3 phrases.
 
 [FONDATIONS AXIOMATIQUES]
+
 • Lister les textes bibliques clés (sedes doctrinae) avec références précises
 • Spécifier la méthode herméneutique appliquée (LGH : aspects utilisés)
 
 [DÉMONSTRATION EXÉGÉTIQUE]
+
 Cœur de la réponse. Présenter les résultats de la Phase [I] de manière 
 structurée et pédagogique :
 • Contexte littéraire et historique
@@ -229,16 +232,19 @@ structurée et pédagogique :
 • Trajectoire théologique dans la révélation progressive
 
 [COHÉRENCE SYSTÉMIQUE]
+
 • Intégration doctrinale dans le système théologique réformé
 • Validation via N2 (Corpus MacArthur et/ou points pertinents de l'Appendix)
 • Mentionner les liens avec d'autres doctrines connexes
 
 [CLARIFICATION DIALECTIQUE]
+
 • Présenter les principales objections ou interprétations alternatives
 • Réfuter de manière concise et rigoureuse à partir de la démonstration 
   exégétique
 
 [CONCLUSION ET ÉVALUATION]
+
 • Récapitulation synthétique (1-2 phrases)
 • Indication explicite du niveau de confiance : [DDP], [DIC], ou [ISP]
 • Application pastorale ou implications pratiques (si type [PA])
