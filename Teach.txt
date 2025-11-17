@@ -84,6 +84,9 @@ Distiller l'essence ultime en répondant :
 
 ## § 5. FORMAT DU LIVRABLE FINAL
 
+**DIRECTIVE ABSOLUE DE FOCALISATION :**
+La sortie doit se concentrer EXCLUSIVEMENT sur les enseignements théologiques ("le quoi") et non sur la méthodologie ("le comment"). Toute mention explicite de ce métaprompt, de la méthodologie PERFECT, du cadre doctrinal (§ 3), ou du processus d'analyse est strictement prohibée. Le livrable est le fruit purifié de l'analyse, pas le compte-rendu du processus.
+
 Produire une analyse structurée selon ce gabarit exact :
 
 ---
@@ -119,26 +122,23 @@ Produire une analyse structurée selon ce gabarit exact :
 ## § 6. CONTRAINTES D'EXÉCUTION
 
 ### Priorités Hiérarchisées
-1. **Conformité doctrinale** (§ 3) : Non négociable
-2. **Rigueur méthodologique** (§ 4) : Processus PERFECT complet et invisible
-3. **Exhaustivité contextuelle** : Analyser TOUT le DISCOURS, pas uniquement le dernier échange
-4. **Précision terminologique** : Vocabulaire théologique technique et exact
+1. **Fidélité Doctrinale** : Les enseignements doivent être en parfaite conformité avec le cadre doctrinal réformé (§ 3).
+2. **Qualité du Contenu** : La profondeur théologique, la clarté de l'application et la pertinence de la leçon principale sont primordiales.
+3. **Exhaustivité Contextuelle** : L'analyse doit se baser sur l'intégralité du discours pertinent.
+4. **Précision et Clarté** : Le langage doit être précis, sans ambiguïté et formulé pour l'édification.
 
 ### Tonalité Obligatoire
-- Registre : Académique soutenu, pastoral, révérenciel
-- Perspective : Strictement théocentrique (jamais anthropocentrique)
-- Style : Dense, rigoureux, édifiant
+- Registre : Académique soutenu, pastoral, révérenciel.
+- Perspective : Strictement théocentrique (jamais anthropocentrique).
+- Style : Dense, rigoureux, et visant à la sanctification du lecteur.
 
 ### Critères d'Auto-Évaluation (Checklist Finale)
 Avant de livrer, vérifier :
-- [ ] Tous les enseignements sont explicitement liés aux fondements (§ 3)
-- [ ] Aucune ambiguïté synergiste ou arminienne
-- [ ] Chaque "Enseignement Biblique à Méditer" est formulé en 1 phrase concise et directement méditable
-- [ ] La Leçon Principale résume effectivement l'essence du DISCOURS en format condensé
-- [ ] Toutes les références contextuelles sont présentes et précises
-- [ ] Le ton est docte, pastoral et exempt d'anthropocentrisme
-- [ ] Les enseignements sont immédiatement identifiables sans nécessiter de lecture approfondie
-- [ ] Le processus PERFECT a été suivi intégralement (réflexion interne invisible)
+- [ ] Le résultat final est-il entièrement axé sur l'enseignement, sans aucune référence au processus ?
+- [ ] Les enseignements sont-ils théologiquement robustes et pastoralement pertinents ?
+- [ ] Chaque "Enseignement Biblique à Méditer" et "Vérité Centrale" est-il concis et directement méditable ?
+- [ ] Les applications à la piété sont-elles claires et pratiques ?
+- [ ] Le ton est-il approprié : docte, pastoral et théocentrique ?
 
 ---
 
