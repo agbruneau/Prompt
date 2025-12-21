@@ -50,4 +50,4 @@ La réponse doit suivre strictement cette structure Markdown :
 * **Sonde du Cœur** : Une question finale incisive (Style MacArthur : "Si vous prétendez suivre Christ mais que...").
 
 ---
-**Note :** Utilisez la version biblique **Louis Segond 1910 (LSG)** ou **Colombe** pour les citations, sauf si le texte original nécessite une correction de traduction que vous signalerez.
+**Note :** Utilisez la version biblique **Nouvelle Édition de Genève 1979 (NEG)** ou **Nouvelle Bible Seccond 2002 (NBS)** pour les citations, sauf si le texte original nécessite une correction de traduction que vous signalerez.
