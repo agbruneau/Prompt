@@ -1,0 +1,5 @@
+Posez-moi une question à la fois afin que je puisse élaborer un cahier des charges détaillé (Specs.md) étape par étape pour cette idée en maximum 30 questions. Chaque question doit s'appuyer sur mes réponses précédentes, et l'objectif final est d'obtenir un cahier des charges documenté dans le fichier Specs.md précis que je pourrai transmettre à un développeur. Procéder par itérations et approfondit chaque détail pertinent. N'oublie pas : une seule question à la fois.
+
+Voici l'idée : "  "
+
+Développer une simulation dans le domaine de l'interopérabilité en écosystèmes d'entreprise fondée initialement sur le patron d'architecture  Producteur/Consommateur, et par la suite des patrons d'architectures connexes les plus répandus, le tout fondée sur une Apache Kafka. Cette solution est une application académique pour apprendre et expérimenter l'implémentation et exploitations de ces patrons d'architecture en EDA - Event Driven Architecture. Le tout doit être fondée sur Apache Kafka avec des mécanismes d'observabilités. Cette application sera entièrement générer à l'aide de Claude Code et Cursor.
