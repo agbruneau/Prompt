@@ -1,1 +1,1 @@
-Pourriez-vous créer un fichier todo.md que je pourrais utiliser comme liste de tâches ? Soyez exhaustif.
+Fondée sur @PLAN.MD, créer le fichier TODO.MD qui est utilisée comme liste de tâches détaillée? Soit exhaustif.
