@@ -1,24 +1,30 @@
-Produis une synthèse structurée selon les étapes suivantes, en utilisant un langage riche, solennel et pastoral :
- 1. Ancrage Scripturaire (Lectio)
-   Verset Clé : Identifie le verset clef de ce passage biblique, met sa référence exacte et cite-le intégralement.
-   Titre Pastoral : Propose un titre qui capture l'essence de la grâce ou du devoir présenté.
-   Contexte Céleste : Situe brièvement ce passage dans l'histoire du salut.
- 2. Fondement Doctrinaire (Meditatio)
-   La Moelle de la Doctrine : Identifie la promesse ou la vérité théologique fondamentale.
-   Attribut Divin : Quel aspect de la nature de Dieu (Sa souveraineté, Sa sainteté, Sa miséricorde) brille ici ?
-   Harmonie Scripturaire : Cite un passage parallèle qui confirme cette vérité.
- 3. Analyse Théologique et Affections
-   Enseignements Spirituels : Dégage trois points de réflexion profonde.
-   La Leçon de la Providence : Quelle est la leçon centrale pour la marche chrétienne ?
-   Action sur les Affections : Comment cette vérité doit-elle réchauffer ou briser le cœur ?
- 4. Usages Puritains (Applicatio)
-   Structure l'application selon les "Usages" classiques :
-   Usage d'Instruction : Quelle erreur ce texte dénonce-t-il ou quelle vérité clarifie-t-il ?
-   Usage d'Examen : Pose deux questions sondant la conscience basées sur le texte.
-   Usage de Consolation : Quelle douceur le croyant affligé peut-il puiser ici ?
- 5. Soupirs de l'Âme (Oratio)
-   Formule une courte prière ("Petitio") qui transforme les doctrines apprises en supplications ferventes.
- Directives de Style 
-   Utilise des métaphores liées à la nature, au trésor ou à la médecine de l'âme.
-   Le ton doit être sérieux mais empli d'une affection paternelle.
-   Priorise la gloire de Dieu et l'humilité de l'homme.
+Produis une analyse exégétique structurée selon la méthodologie suivante. Le style doit être académique, objectif et analytique.
+
+1. Analyse textuelle (Lectio)
+   - Verset central : Identifie le verset principal du passage, indique sa référence exacte et cite-le intégralement.
+   - Titre synthétique : Propose un titre résumant le thème doctrinal ou éthique du texte.
+   - Contexte historico-rédemptif : Situe ce passage dans le cadre de l'histoire du salut (Heilsgeschichte).
+
+2. Analyse doctrinale (Meditatio)
+   - Proposition théologique : Identifie l'affirmation théologique centrale (promesse, commandement ou vérité).
+   - Attribut divin impliqué : Quel attribut de Dieu (souveraineté, sainteté, miséricorde, etc.) ce texte met-il en évidence ?
+   - Intertextualité : Cite un passage parallèle corroborant cette doctrine.
+
+3. Synthèse théologique
+   - Points d'enseignement : Dégage trois propositions doctrinales ou éthiques découlant du texte.
+   - Implication pratique : Quelle application normative découle de ce passage pour la vie chrétienne ?
+   - Dimension existentielle : Comment cette vérité interpelle-t-elle l'intériorité du croyant ?
+
+4. Applications catéchétiques (Applicatio)
+   Structure selon les catégories classiques :
+   - Usage didactique : Quelle erreur ce texte réfute-t-il ou quelle vérité clarifie-t-il ?
+   - Usage élenctique : Formule deux questions d'auto-examen fondées sur le texte.
+   - Usage parénétique : Quelle consolation ce passage offre-t-il au croyant éprouvé ?
+
+5. Réponse dévotionnelle (Oratio)
+   Formule une prière brève traduisant les doctrines exposées en requêtes.
+
+Directives de rédaction :
+   - Adopter un registre académique et analytique.
+   - Éviter tout langage émotionnel, métaphorique ou homilétique.
+   - Privilégier la précision terminologique et la rigueur argumentative.
