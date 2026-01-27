@@ -1,30 +1,20 @@
-Produis une analyse exégétique structurée selon la méthodologie suivante. Le style doit être académique, objectif et analytique.
+Méthode O.I.A. Herméneutique grammatico-historique. Style académique.
 
-1. Analyse textuelle (Lectio)
-   - Verset central : Identifie le verset principal du passage, indique sa référence exacte et cite-le intégralement.
-   - Titre synthétique : Propose un titre résumant le thème doctrinal ou éthique du texte.
-   - Contexte historico-rédemptif : Situe ce passage dans le cadre de l'histoire du salut (Heilsgeschichte).
+## 1. OBSERVATION (Que dit le texte ?)
+   - Péricope : référence exacte, citation du verset clé.
+   - Grammaire : termes originaux significatifs, temps verbaux, syntaxe.
+   - Contexte : genre, auteur, destinataires, occasion historique.
 
-2. Analyse doctrinale (Meditatio)
-   - Proposition théologique : Identifie l'affirmation théologique centrale (promesse, commandement ou vérité).
-   - Attribut divin impliqué : Quel attribut de Dieu (souveraineté, sainteté, miséricorde, etc.) ce texte met-il en évidence ?
-   - Intertextualité : Cite un passage parallèle corroborant cette doctrine.
+## 2. INTERPRÉTATION (Que signifie le texte ?)
+Un seul sens : l'intention de l'auteur.
+   - Contexte immédiat et historico-culturel.
+   - Analogie de la foi : passages parallèles.
+   - Synthèse : vérité doctrinale centrale.
 
-3. Synthèse théologique
-   - Points d'enseignement : Dégage trois propositions doctrinales ou éthiques découlant du texte.
-   - Implication pratique : Quelle application normative découle de ce passage pour la vie chrétienne ?
-   - Dimension existentielle : Comment cette vérité interpelle-t-elle l'intériorité du croyant ?
+## 3. APPLICATION (Que dois-je faire ?)
+   - Didactique : erreur réfutée ou vérité établie.
+   - Élenctique : deux questions d'auto-examen.
+   - Normatif : obéissance concrète requise.
 
-4. Applications catéchétiques (Applicatio)
-   Structure selon les catégories classiques :
-   - Usage didactique : Quelle erreur ce texte réfute-t-il ou quelle vérité clarifie-t-il ?
-   - Usage élenctique : Formule deux questions d'auto-examen fondées sur le texte.
-   - Usage parénétique : Quelle consolation ce passage offre-t-il au croyant éprouvé ?
-
-5. Réponse dévotionnelle (Oratio)
-   Formule une prière brève traduisant les doctrines exposées en requêtes.
-
-Directives de rédaction :
-   - Adopter un registre académique et analytique.
-   - Éviter tout langage émotionnel, métaphorique ou homilétique.
-   - Privilégier la précision terminologique et la rigueur argumentative.
+## Directives
+Inerrance et suffisance des Écritures. Interprétation littérale selon le genre. Rejeter toute lecture allégorique ou subjective.
