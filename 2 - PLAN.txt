@@ -1,9 +1,0 @@
-Élabore un plan détaillé, étape par étape, pour la réalisation de ce projet. Une fois ce plan bien défini, décompose le en petites étapes itératives qui s'appuient les unes sur les autres. Analyse ces étapes, puis décompose les à nouveau en sous-étapes.
-
-Vérifie les résultats et assure toi que les sous-étapes sont suffisamment petites pour être implémentées en toute sécurité avec des tests rigoureux, tout en étant suffisamment importantes pour faire progresser le projet. Itérer jusqu'à ce que tu estime les sous-étapes optimales pour ce projet.
-
-Tu dois ainsi disposer des bases nécessaires pour fournir une série d'instructions à CLAUDE CODE qui va implémenter chaque étape selon une approche de test (Tests Driven dévelopment). Veille à utiliser des données réelles et non des données simulées lors des tests, ainsi que de véritables appels aux API lorsque cela est pertinent.
-
-Prioriser les bonnes pratiques en ingénierie logicielle, la progression incrémentale et les tests rigoureux, en évitant les sauts de complexité importants à chaque étape. Assure toi que chaque instruction s'appuie sur les instructions précédentes et se termine par une intégration cohérente et fonctionnelle. Aucun code orphelin ou en suspens ne doit être intégré à une étape précédente.
-
-Veille à séparer chaque prompt dans le fichier PLAN.MD. Utilise le format Markdown, soit le fichier PLAN.MD doit être structuré de manière claire et lisible. Chaque prompt doit être balisée (tagged) comme du texte à l'aide de balises de code (tags). L'objectif est d'afficher les prompts, mais le contexte est également important.

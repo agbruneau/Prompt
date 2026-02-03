@@ -1,1 +1,0 @@
-Fondée sur @PLAN.MD, créer le fichier TODO.MD qui est utilisée comme liste de tâches détaillée? Soit exhaustif.

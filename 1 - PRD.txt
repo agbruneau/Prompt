@@ -1,3 +1,0 @@
-Pose une question à la fois afin que je puisse élaborer les spécifications détaillées étape par étape pour cette idée en développement, le tout en maximum 25 questions, et ce afin de produire le fichier PDR.MD contenant les spécifications établies. Toujours accompagner chaque question d'une recommandation pour la réponse. Chaque question doit s'appuyer sur mes réponses définies précédemments. La finalité est camper ces précises spécifications, le tout documentées dans le fichier résultant, PDR.MD, que je peux transmettre à un développeur. Procéder par itérations et approfondir chaque détail pertinent. N'oublie pas : une seule question à la fois.
-
-Voici l'idée : 
